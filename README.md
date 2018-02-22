@@ -5,6 +5,6 @@ A simple app to valiate creditcard numbers
 
 ## Setup
 
-Simply clone the repo into htdocs
-Type composer install - to install dependencies
+1.Simply clone the repo into htdocs
+2.Type composer install - to install dependencies
  
