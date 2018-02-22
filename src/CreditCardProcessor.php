@@ -100,6 +100,11 @@ class CreditCardProcessor{
 
     }
 
+    /**
+     * Simply  calls validateCardNumberInput() to validate the input and validateCardNumber() to check the card number
+     * @return string processed message
+     * @author @cherankrish
+     */
     public function cardProcessedMessage(){
 
         $cardNumber =  $this->cardNumber;
